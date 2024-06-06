@@ -126,11 +126,7 @@
 
                 >
 
-                <!--                <ImageView-->
-                <!--                    android:id="@+id/imageView2"-->
-                <!--                    android:layout_width="70dp"-->
-                <!--                    android:layout_height="70dp"-->
-                <!--                    app:srcCompat="@drawable/gadgets" />-->
+
                 <ImageButton
                     android:id="@+id/imageEle"
                     android:layout_width="70dp"
@@ -247,14 +243,14 @@
                             android:padding="5dp">
 
                             <ImageView
-                                android:id="@+id/imageView3"
+                                android:id="@+id/imageProduct1"
                                 android:layout_width="180dp"
                                 android:layout_height="200dp"
                                 app:srcCompat="@drawable/women1" />
 
 
                             <TextView
-                                android:id="@+id/textView8"
+                                android:id="@+id/nameProduct1"
                                 android:layout_width="180dp"
                                 android:layout_height="80dp"
                                 android:text="Womens 2 Piece Shirts Short Sleeve"
@@ -262,7 +258,7 @@
                                 android:textSize="20sp" />
 
                             <TextView
-                                android:id="@+id/textView9"
+                                android:id="@+id/priceProduct1"
                                 android:layout_width="180dp"
                                 android:layout_height="wrap_content"
                                 android:layout_marginTop="10dp"
@@ -272,7 +268,7 @@
                                 android:textStyle="bold" />
 
                             <Button
-                                android:id="@+id/button2"
+                                android:id="@+id/productBtn1"
                                 android:layout_width="180dp"
                                 android:layout_height="wrap_content"
                                 android:layout_marginTop="15dp"
@@ -292,14 +288,14 @@
                             android:padding="5dp">
 
                             <ImageView
-                                android:id="@+id/imageView1"
+                                android:id="@+id/imageProduct2"
                                 android:layout_width="180dp"
                                 android:layout_height="200dp"
                                 app:srcCompat="@drawable/women2" />
 
 
                             <TextView
-                                android:id="@+id/textView1"
+                                android:id="@+id/nameProduct2"
                                 android:layout_width="180dp"
                                 android:layout_height="80dp"
                                 android:text="Mademark x MTV - Womens"
@@ -307,7 +303,7 @@
                                 android:textSize="20sp" />
 
                             <TextView
-                                android:id="@+id/textView91"
+                                android:id="@+id/priceProduct2"
                                 android:layout_width="180dp"
                                 android:layout_height="wrap_content"
                                 android:layout_marginTop="10dp"
@@ -317,7 +313,7 @@
                                 android:textStyle="bold" />
 
                             <Button
-                                android:id="@+id/button21"
+                                android:id="@+id/productBtn2"
                                 android:layout_width="180dp"
                                 android:layout_height="wrap_content"
                                 android:layout_marginTop="15dp"
@@ -346,14 +342,14 @@
                             android:padding="5dp">
 
                             <ImageView
-                                android:id="@+id/imageView3"
+                                android:id="@+id/imageProduct3"
                                 android:layout_width="180dp"
                                 android:layout_height="200dp"
                                 app:srcCompat="@drawable/women3" />
 
 
                             <TextView
-                                android:id="@+id/textView8"
+                                android:id="@+id/nameProduct3"
                                 android:layout_width="180dp"
                                 android:layout_height="80dp"
                                 android:text="XPONNI Track Pants Women Baggy"
@@ -361,7 +357,7 @@
                                 android:textSize="20sp" />
 
                             <TextView
-                                android:id="@+id/textView9"
+                                android:id="@+id/priceProduct3"
                                 android:layout_width="180dp"
                                 android:layout_height="wrap_content"
                                 android:layout_marginTop="10dp"
@@ -371,7 +367,7 @@
                                 android:textStyle="bold" />
 
                             <Button
-                                android:id="@+id/button2"
+                                android:id="@+id/productBtn3"
                                 android:layout_width="180dp"
                                 android:layout_height="wrap_content"
                                 android:layout_marginTop="15dp"
@@ -392,14 +388,14 @@
                             android:padding="5dp">
 
                             <ImageView
-                                android:id="@+id/imageView1"
+                                android:id="@+id/imageProduct4"
                                 android:layout_width="180dp"
                                 android:layout_height="200dp"
                                 app:srcCompat="@drawable/women4" />
 
 
                             <TextView
-                                android:id="@+id/textView1"
+                                android:id="@+id/nameProduct4"
                                 android:layout_width="180dp"
                                 android:layout_height="80dp"
                                 android:text="MAEHARRT Womens Jeans High "
@@ -407,7 +403,7 @@
                                 android:textSize="20sp" />
 
                             <TextView
-                                android:id="@+id/textView91"
+                                android:id="@+id/priceProduct4"
                                 android:layout_width="180dp"
                                 android:layout_height="wrap_content"
                                 android:layout_marginTop="10dp"
@@ -417,7 +413,7 @@
                                 android:textStyle="bold" />
 
                             <Button
-                                android:id="@+id/button21"
+                                android:id="@+id/productBtn4"
                                 android:layout_width="180dp"
                                 android:layout_height="wrap_content"
                                 android:layout_marginTop="15dp"
