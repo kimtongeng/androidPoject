@@ -46,5 +46,14 @@ public class ProfileActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+        ImageButton orderNotitication = findViewById(R.id.OrderNotitication);
+        orderNotitication.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(ProfileActivity.this, OrderActivity.class);
+                startActivity(intent);
+            }
+        });
+
     }
 }

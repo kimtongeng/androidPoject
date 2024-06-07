@@ -51,7 +51,7 @@ public class HomeActivity extends AppCompatActivity {
             }
         });
 
-        Button btnOrder = findViewById(R.id.btnOrder);
+        Button btnOrder = findViewById(R.id.productBtn1);
         btnOrder.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
